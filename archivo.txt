@@ -1,2 +1,4 @@
 mi primer programa git
 fast
+
+arreglo elegante
